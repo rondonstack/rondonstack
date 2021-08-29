@@ -5,7 +5,8 @@
 
 
 ### :punch: About
-> Graduated in Mechatronics Engineering, working in Web systems development for public management. Currently works as a .NET developer, working with systems with the MVC architecture, Razor, WebForms and Asp.Net core. It studies modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
+> Graduated in Control and Automation Engineering (2019) from the Dom Bosco Catholic University (UCDB) and postgraduate in Artificial Intelligence and Machine Learning (2021) from the Pontifical Catholic University of Minas Gerais (PUC-Minas) and is currently pursuing a Masters in Science of Computing by the Federal University of Mato Grosso do Sul (UFMS). Has with software development for the Web and currently works as a .NET Full Stack Developer, working with front-end technologies such as Angular and React and also with legacy .NET platform technologies such as Razor Forms, Web Experience, .NET Core API and Microservices . Has experience with SQL Server and Oracle relational databases. He also has academic experience in research and development of systems using artificial intelligence, having completed his graduate course conclusion work developing a navigation system for autonomous vehicles using computer vision and machine learning.
+
 
 
 ### :zap: Technologies & Skills
